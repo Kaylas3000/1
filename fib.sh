@@ -1,9 +1,10 @@
 #!/bin/bash
 
-echo "How many number of terms to be generated ?"
+echo "How many number of terms to be generated?"
   read n
 function fib
 {
+
   x=0
   y=1
   i=2
