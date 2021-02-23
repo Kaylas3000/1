@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#This is my first bash script to learn git, Linux and Bash
+
 echo "How many number of terms to be generated?"
   read n
 function fib
